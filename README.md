@@ -10,4 +10,4 @@ Simply clone this repo to get started.
 
 Once you've cloned this repo, cd into client folder and run the terminal command npm i to install the dependencies.
 
-You'll need to also clone this backend codebase. 
+You'll need to also clone [this](https://github.com/mbocon/MERN-STARTER-WITH-AUTH-API.git) backend codebase. 
