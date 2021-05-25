@@ -23,7 +23,7 @@ function SignupForm(props) {
 		e.preventDefault();
 		try {
 			await signup(formState);
-			// Successfully signed up - show GamePage
+			// Successfully signed up - show HomePage
 			props.handleSignupOrLogin();
 			props.history.push('/');
 		} catch (err) {
